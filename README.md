@@ -89,7 +89,7 @@ Además, se manejan errores como:
 
 ## 👤 Autora
 
-- **Silvia Hernández**
+- Alumna de Alura Latam G8: Silvia Hernández Márquez.
 
 
 ---
