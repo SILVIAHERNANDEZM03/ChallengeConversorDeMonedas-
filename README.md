@@ -40,10 +40,37 @@ El conversor permite realizar conversiones entre las siguientes monedas:
 ## 🧠 Funcionamiento
 
 - El usuario selecciona una opción del menú numérico.
+
+
+![image](https://github.com/user-attachments/assets/c793439c-8362-40b9-831b-b40631a58a38)
+
+
+
 - Ingresa la cantidad a convertir.
 - Se obtiene la tasa de cambio en tiempo real desde la API.
 - Se realiza la conversión y se muestra el resultado.
+
+
+![image](https://github.com/user-attachments/assets/c32f4f9d-13f8-4b26-959a-88f86504dade)
+
+
 - Si el usuario elige salir, el programa termina con un mensaje de agradecimiento.
+
+
+![image](https://github.com/user-attachments/assets/1ca07607-7051-4121-8deb-1f09673c670e)
+
+
+- El usuario debe seleccionar una opción del 1 al 7. Si el usuario ingresa un número fuera del rango (por ejemplo, 0 u 8), el programa muestra un mensaje de advertencia indicando que debe elegir una opción válida del menú.
+
+
+![image](https://github.com/user-attachments/assets/9b03c03b-f89b-4495-8bf6-b0517c8fdb7f)
+
+
+-No se aceptan cantidades iguales o menores a cero. Si el usuario ingresa un número negativo o cero, el programa lo notifica y vuelve a solicitar un valor válido.
+
+
+![image](https://github.com/user-attachments/assets/064a1d2d-0dac-4b15-8dd4-be12cee9ebed)
+
 
 Además, se manejan errores como:
 - Opción inválida
@@ -63,7 +90,7 @@ Además, se manejan errores como:
 ## 👤 Autora
 
 - **Silvia Hernández**
-- Repositorio: [ChallengeConversorDeMonedas](https://github.com/SILVIAHERNANDEZM03/ChallengeConversorDeMonedas)
+
 
 ---
 
@@ -71,7 +98,7 @@ Además, se manejan errores como:
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/SILVIAHERNANDEZM03/ChallengeConversorDeMonedas.git
+   git clone https://github.com/SILVIAHERNANDEZM03/ChallengeConversorDeMonedas-.git
    ```
 2. Abre el proyecto con tu IDE favorito (como IntelliJ o VSCode con soporte Java).
 3. Ejecuta la clase `Main.java`.
